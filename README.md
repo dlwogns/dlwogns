@@ -1,4 +1,10 @@
-### Hi there 👋
+✨
+Interested in
+1. flutter
+2. backend
+3. algorithm
+
+
 
 <!--
 **dlwogns/dlwogns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
