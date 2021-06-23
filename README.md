@@ -1,7 +1,6 @@
 ✨
 Interested in
 1. flutter
-2. backend
 3. algorithm
 
 
