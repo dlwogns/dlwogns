@@ -1,6 +1,6 @@
 # 🐒No_More_Alcohol
 
-INHA CSE undergraduate
+undergraduate major in CSE at Inha University 
 
 ## Interested In
 
