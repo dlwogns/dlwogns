@@ -1,14 +1,17 @@
-# 🐒No_More_Alcohol
+# dlwogns
 
-undergraduate major in CSE at Inha University 
-
-## Interested In
+19.03 ~ 
+Undergraduate at Inha University
+## Now Studying
 
 AWS cloud <br>
-spring 
+Infrastructure
+-Kubernetes<br>
+-Docker<br>
+-Jenkins<br>
 
 ## Tech Stack
-
+C++ Python Docker
 🙊
 
 
