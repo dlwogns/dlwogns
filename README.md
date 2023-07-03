@@ -5,7 +5,7 @@ Undergraduate at Inha University
 ## Now Studying
 
 AWS cloud <br>
-Infrastructure
+Infrastructure<br>
 -Kubernetes<br>
 -Docker<br>
 -Jenkins<br>
