@@ -6,9 +6,6 @@ Undergraduate at Inha University
 
 AWS cloud <br>
 Infrastructure<br>
--Kubernetes<br>
--Docker<br>
--Jenkins<br>
 
 ## Tech Stack
 C++ Python Docker
