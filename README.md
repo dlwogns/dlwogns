@@ -6,9 +6,13 @@ Undergraduate at Inha University
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwww7778)](https://solved.ac/qwww7778/)
 
-## Tech Stack
-C++ Python 
-🙊
+## Interested in
+Spring boot
+AWS
+PS
 
+## Tech Stack
+C++ Python Java Spring boot 
+🙊
 
 
