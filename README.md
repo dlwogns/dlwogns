@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0000BB&height=150&section=header&text=dlwogns&fontColor=DDDDDD&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+<div align="center">
 <div style="text-align: center;">
 19.03 ~ Undergraduate at Inha University<br>
 23.12 ~ MAUM AI full stack engineer
@@ -50,3 +51,4 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
 
 
+</div>
