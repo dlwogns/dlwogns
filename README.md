@@ -12,10 +12,8 @@
 <br>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwww7778)](https://solved.ac/qwww7778/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwww7778)](https://solved.ac/qwww7778/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwogns&layout=compact)](https://github.com/dlwogns/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwogns&layout=compact)](https://github.com/dlwogns/github-readme-stats)
   
 
 ## Now Studying
