@@ -9,24 +9,14 @@
 
 <br><br>
 
-<div style="text-align: center;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwogns&show_icons=true&theme=radical)
-
-</div>
 <br>
 
-<div style="text-align: center;">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwww7778)](https://solved.ac/qwww7778/)
 
-</div>
-
-<div style="text-align: center;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwogns&layout=compact)](https://github.com/dlwogns/github-readme-stats)
   
-</div>
 
 ## Now Studying
 <img style="width: 100px; height: 100px;" src="https://simpleicons.org/icons/springsecurity.svg" /> <img style="width: 100px; height: 100px;" src="https://simpleicons.org/icons/spring.svg" />
