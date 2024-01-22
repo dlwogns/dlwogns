@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0000BB&height=150&section=header&text=dlwogns&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0000BB&height=150&section=header&text=dlwogns&fontColor=DDDDDD&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-
-19.03 ~ Undergraduate at Inha University
-
+<div style="text-align: center;">
+19.03 ~ Undergraduate at Inha University<br>
+23.12 ~ MAUM AI full stack engineer
+</div>
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwogns&show_icons=true&theme=radical)
 <br>
