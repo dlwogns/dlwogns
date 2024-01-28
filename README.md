@@ -17,7 +17,7 @@
   
 
 ## Now Studying
-<img style="width: 100px; height: 100px;" src="https://simpleicons.org/icons/springsecurity.svg" /> <img style="width: 100px; height: 100px;" src="https://simpleicons.org/icons/spring.svg" />
+<img style="width: 100px; height: 100px;" src="https://simpleicons.org/icons/spring.svg" />
 
 
 
