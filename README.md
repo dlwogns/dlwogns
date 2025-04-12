@@ -9,43 +9,5 @@
 
 ## Interested in
 Architecture design<br>
-API design & implementation <br>
-Server-level programming <br>
+Backend Engineering<br>
 Problem Solving 
-
-
-
-## Projects
-### 1. 솔루션 개발
-Web Fullstack engineer
-<br>
-Vue.js + Spring + myBatis + Oracle
-### 2. 음성봇 고도화 
-Interface Manager <br>
-API design & implementation<br>
-Spring
-<br>
-### 3. 솔루션 개발
-Python server engineer
-<br>
-develop real-time process
-<br>
-based on Python multiprocessing
-<br>
-Using WireShark to analyze network packet
-<br>
-
-## Tech Stack 
-### Lauguages
-1) JAVA Python SQL Shell
-2)  JavaScript C++ C 
-
-### Frameworks
-Spring Flask Vue.js 
-### else
-Docker AWS for MSA <br>
-WireShark <br>
-Oracle MySQL MariaDB for RDBMS<br>
-Redis <br>
-basic level CI/CD (Jenkins, git pipeline)<br>
-basic ML/DL knowledge (2020.1 undergraduate research student )
