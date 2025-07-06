@@ -3,7 +3,6 @@
 23.12 ~ 24.12 MAUM AI backend engineer<br>
 [linkedin](https://www.linkedin.com/in/%EC%9E%AC%ED%9B%88-%EC%9D%B4-9371622b2/)   
 [tistory](https://dkanrjtehahffk.tistory.com/)   
-[About me](https://dlwogns.github.io/)   
 [solvedAC](https://solved.ac/profile/qwww7778)   
 
 
