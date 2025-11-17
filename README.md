@@ -8,6 +8,8 @@
 
 
 ## Interested in
+Plugin Development (Java Based) <br>
+Java based Software development <br>
 Architecture design<br>
 Backend Engineering<br>
 Problem Solving 
