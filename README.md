@@ -29,7 +29,7 @@
 ![Mockito](https://img.shields.io/badge/Mockito-Testing-green?style=for-the-badge)
 ![SWTBot](https://img.shields.io/badge/SWTBot-UI_Testing-blue?style=for-the-badge)
 
-### IDE & Tools
+### SDK for IDE Extension
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
