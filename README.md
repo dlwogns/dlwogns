@@ -7,7 +7,7 @@
 
 ### 💼 Career
 - **Sparrow** (2025.08 ~ )
-  - IntelliJ / Eclipse Plugin Development
+  - Backend Engineer
   - Enterprise Solution CLI Development
 - **MAUM AI** (2023.12 ~ 2024.12)
   - Backend Engineer
