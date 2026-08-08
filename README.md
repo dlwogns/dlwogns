@@ -13,7 +13,6 @@
   - Backend Engineer
 
 ### 🔍 Interested In
-- **Plugin Development**: Java-based IDE Extension (IntelliJ, Eclipse)
 - **Software Engineering**: Java-based Software, Architecture Design
 - **Backend**: Scalable Backend Engineering
 - **Problem Solving**: Algorithmic Challenges
