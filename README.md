@@ -21,7 +21,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-Testing-green?style=for-the-badge)
-
 ### 📊 Stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qwww7778)](https://solved.ac/qwww7778)
